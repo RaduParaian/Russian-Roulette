@@ -1,7 +1,6 @@
 import random
 import time
 
-import art
 import vs_2p
 import vs_3p
 import vs_4p
